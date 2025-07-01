@@ -16,16 +16,16 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "pt-BR",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "gabrielwessling.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Megrim",
+        body: "Nova Mono",
+        code: "Cutive Mono",
       },
       colors: {
         lightMode: {
