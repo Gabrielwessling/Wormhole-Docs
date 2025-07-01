@@ -20,4 +20,5 @@ Sempre que um sistema for alterado ou criado, documente:
 - Decisões técnicas
 - Status de implementação
 
-![[+UML Diagram SVG.svg]]
+[[+UML Diagram SVG.svg]]
+[Canvas](obsidian://open?vault=content&file=Arquitetura%2FUML%2F%2BUML%20Diagram.canvas)
