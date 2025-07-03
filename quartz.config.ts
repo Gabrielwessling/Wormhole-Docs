@@ -24,7 +24,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Megrim",
-        body: "Nova Mono",
+        body: "Inter",
         code: "Cutive Mono",
       },
       colors: {
