@@ -1,8 +1,7 @@
 
 ---
 # Headers
-Isso é uma H1
-===
+### Isso é uma H1
 lorem ipsum
 
 Isso é uma H2
