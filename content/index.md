@@ -1,7 +1,5 @@
 ---
 title: Home
-draft: false
-tags:
 ---
 Bem vindo aos documentos de criação de Wormhole, um jogo isométrico que mistura rpg, sobrevivência e simulação procedural/determinista em um pacote só.
 
@@ -13,15 +11,9 @@ Artigos recomendados:
 - [[1. Visão Geral]]
 - [[+UML Índice]]
 
-Explicação básica:
-- Arquitetura: Páginas sobre a modelagem do jogo feita antes da codificação com objetivo de planejamento a longo prazo.
-
-🔄 Fluxo de Atualização:
-Sempre que um sistema for alterado ou criado, documente:
-- Objetivo
-- Resumo da estrutura
-- Diagrama (se aplicável)
-- Decisões técnicas
-- Status de implementação
+**Explicação básica:**
+- Contato com a Equipe: Espaço pra achar formas de se comunicar com pessoas importantes no projeto.
+- Devlogs: Devlogs são primariamente criados aqui e colocados em outros sites depois.
+- Espaço Dev: Se você não for um dev do projeto, essas páginas provavelmente não serão interessantes pra ti.
 
 [[+UML Diagram SVG.svg]]
