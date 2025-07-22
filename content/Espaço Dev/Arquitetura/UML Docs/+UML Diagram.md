@@ -1,6 +1,5 @@
 ```mermaid
 classDiagram
-  direction TB
 
   %% World System
   class World {
